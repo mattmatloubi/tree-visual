@@ -11,4 +11,6 @@ and outputs it in the form below:
 some further examples taken from [strings.txt](https://github.com/mattmatloubi/tree-visual/blob/main/strings.txt):
 
 ![image](https://github.com/user-attachments/assets/9f07cb98-dcaf-4b7a-b374-488788e9473a)
+<img width="1660" alt="image" src="https://github.com/user-attachments/assets/ccdeee16-b785-4f43-934e-e70209263954" />
+
 
